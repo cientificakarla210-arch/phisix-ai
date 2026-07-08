@@ -1,0 +1,11 @@
+{
+  "name": "Remix: cuekc",
+  "description": "Tu asistente de física inteligente. Escanea fórmulas, chatea con un tutor de IA, explora categorías, realiza un seguimiento de tu progreso y resuelve desafíos mensuales.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
